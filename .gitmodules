@@ -1,0 +1,8 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ryanjiroo/CoMate.git
+	branch = main
+[submodule "backend"]
+	path = backend
+	url = https://github.com/bagusangkasawan/CoMate-BackEnd.git
+	branch = main
